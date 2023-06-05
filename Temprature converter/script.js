@@ -73,7 +73,7 @@ function inputZero(){
   inputKelvin.value = null;
 
 }
-
+// abcd
 // var write_text = function() {
 //   input.value+=text[current];
 //   if(current < l-1) {
