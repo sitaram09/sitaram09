@@ -65,6 +65,7 @@ inputKelvin.addEventListener('input' , (event3) => {
   
 })
 
+
 function inputZero(){
   inputFahrenheit.value = null;
 
