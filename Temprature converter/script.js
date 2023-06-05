@@ -24,7 +24,6 @@ inputFahrenheit.addEventListener('input' , (event1) => {
    inputKelvin.value = valueInKelvin;
   })
 
-  
 inputCelcius.addEventListener('click', inputZero());
 inputCelcius.addEventListener('input' , (event2) => {
     
